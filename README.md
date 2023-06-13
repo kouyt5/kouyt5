@@ -12,8 +12,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kouyt5/kouyt5/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-<!---
-kouyt5/kouyt5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
