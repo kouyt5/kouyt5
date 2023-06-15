@@ -3,9 +3,9 @@
 
 有Java后端、Android开发、深度学习算法开发经验，热爱技术，欢迎来撩
 
-![Kouyt5's github stats](https://vercel-readme-stats-deploy-git-main-kouyt5.vercel.app/api?username=kouyt5&show_icons=true)
+![Kouyt5's github stats](https://vercel-readme-stats-deploy.vercel.app/api?username=kouyt5&show_icons=true)
 
-[![Top Langs](https://vercel-readme-stats-deploy-git-main-kouyt5.vercel.app/api/top-langs/?username=kouyt5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel-readme-stats-deploy.vercel.app/api/top-langs/?username=kouyt5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kouyt5/kouyt5/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kouyt5/kouyt5/output/github-contribution-grid-snake.svg">
