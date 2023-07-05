@@ -1,10 +1,13 @@
+## 个人简介
 - 👋 Hi, I’m @kouyt5
-- 👀 目前从事Android开发相关工作
+- 👀 目前从事 Android 开发相关工作
 
-联系方式：
+### 联系方式：
 
 - qq: 1147893200
 - mail: 1147893200@qq.com
+
+## GitHub Status
 
 ![Kouyt5's github stats](https://vercel-readme-stats-deploy.vercel.app/api?username=kouyt5&show_icons=true)
 
