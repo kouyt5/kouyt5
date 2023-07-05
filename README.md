@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @kouyt5
-- 👀 研究生在读中...研究方向和语音算法相关（降噪、识别等）
+- 👀 目前从事Android开发相关工作
 
-有Java后端、Android开发、深度学习算法开发经验，热爱技术，欢迎来撩
+联系方式：
+
+- qq: 1147893200
+- mail: 1147893200@qq.com
 
 ![Kouyt5's github stats](https://vercel-readme-stats-deploy.vercel.app/api?username=kouyt5&show_icons=true)
 
